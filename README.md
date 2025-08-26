@@ -45,7 +45,6 @@ The SolarPanel Tokenization project has extensive potential for growth and enhan
 
 ## Contract Address Details
 contract ID:ST26J4NAJW0RH9BD7VSG9AEXX7YBGB08B7A0C8R8E.SolarPanelTokenization
-![alt text](image-3.png)
 **Contract addresses will be added after deployment:**
 - **Testnet Contract**: ST26J4NAJW0RH9BD7VSG9AEXX7YBGB08B7A0C8R8E.SolarPanelTokenization
 - **Token Symbol**: SOLAR
