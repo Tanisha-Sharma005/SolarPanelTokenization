@@ -54,4 +54,3 @@ The SolarPanel Tokenization project has extensive potential for growth and enhan
 
 ---
 
-*This project represents a significant step toward sustainable, community-owned renewable energy infrastructure powered by blockchain technology.*-
