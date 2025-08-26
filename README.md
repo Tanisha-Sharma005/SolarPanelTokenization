@@ -1,4 +1,5 @@
 # SolarPanel Tokenization
+<img width="933" height="750" alt="image" src="https://github.com/user-attachments/assets/17f45fd6-8bae-4a22-9f50-598595dcc252" />
 
 ## Project Description
 
@@ -45,11 +46,10 @@ The SolarPanel Tokenization project has extensive potential for growth and enhan
 ## Contract Address Details
 
 **Contract addresses will be added after deployment:**
-
-- **Mainnet Contract**: [To be added]
-- **Testnet Contract**: [To be added]
+- **Testnet Contract**: ST26J4NAJW0RH9BD7VSG9AEXX7YBGB08B7A0C8R8E.SolarPanelTokenization
 - **Token Symbol**: SOLAR
 - **Token Decimals**: 6
+- **Transaction id**:0xccb29082ae40235f8563a9fb52ff35f90af7f53663b4aa1e7fa1b913967c60ff
 - **Contract Version**: 1.0.0
 
 ---
